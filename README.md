@@ -14,6 +14,6 @@ This was a kaggle style project whereby the main objective was to use financial 
 
 The different approachs and rationale are documented in `Finance_GroupCompetition_Santander.ipynb`.
 
-Our final position in the Public Leader Board would be: **59** with a AUC score: **0.92244**
+Our final position in the Public Leader Board would be: **59** with an **AUC** score: **0.92244**
 
 This project was completed with Guillermo Chacon, Diego Cuartas, Esteban Delgado, Aayush Kejriwal, Denis Mochalov, Mariana Narvaez and Valentina Premoli.
